@@ -5,10 +5,12 @@
       "scale" : "1x"
     },
     {
+      "filename" : "asteroid@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "asteroid@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
